@@ -1,1 +1,1 @@
-# churchc-assets
+# church-assets
